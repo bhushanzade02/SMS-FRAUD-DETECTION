@@ -46,5 +46,5 @@ Built using:
 | NLP Tools      | nltk, regex         |
 | Deployment     | Streamlit Cloud     |
 
-## 📁 Project Structure
+
 
