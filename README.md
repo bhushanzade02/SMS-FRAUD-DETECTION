@@ -1,4 +1,4 @@
-# 📩 SMS Fraud Detection App
+# SMS Fraud Detection App
 
 [![Streamlit App](https://img.shields.io/badge/View%20App-Click%20Here-brightgreen)](https://bhushanzade-sms-fraud-detection.streamlit.app/)
 
